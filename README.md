@@ -55,7 +55,7 @@ Spring 2017
 
 ### Experience  
 
-### Gap Inc, _Seattle, Wa_ 
+#### Gap Inc, _Seattle, Wa_ 
 * Retail, _February 2018 - present_
 
 #### Vovito Cafe, _Seattle, Wa_ 
