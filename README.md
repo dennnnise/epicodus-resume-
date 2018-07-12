@@ -54,8 +54,12 @@ Krannert Art Museum, _Champaign, IL_
 Spring 2017 
 
 ### Experience  
+
+### Gap Inc, _Seattle, Wa_ 
+* Retail, _February 2018 - present_
+
 #### Vovito Cafe, _Seattle, Wa_ 
-Barista, _August 2017-present_  
+Barista, _August 2017-2018_  
 * Prepare food and beverages and provide excellent customer service
 * Clean and sanitize working areas
 
