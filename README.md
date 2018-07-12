@@ -5,6 +5,7 @@
 Epicodus, 2018
 _Seattle, Washington_
 Full Stack Web Development
+
 BFA in Photography, 2017  
 _University of Illinois at Urbana-Champaign_  
 GPA: 3.6  
