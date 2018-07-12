@@ -12,11 +12,17 @@ GPA: 3.6
 
 ### Skills 
 JavaScript
+
 C#
+
 AngularJS
+
 React
+
 Digital and Analog Photography  
+
 Microsoft Office  
+
 Adobe Creative Suite
 
 ### Languages  
